@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.1",
+    "fontforge": "^0.0.4",
+    "grunt-webfonts": "^4.0.3"
+  },
+  "devDependencies": {
+    "grunt": "^1.5.3",
+    "grunt-contrib-sass": "^2.0.0"
+  }
+}

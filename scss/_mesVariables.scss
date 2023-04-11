@@ -1,0 +1,46 @@
+$body-text-align:           inherit !default;
+$link-hover-decoration:                   inherit !default;
+$font-size-root:              inherit !default;
+$headings-font-family:        inherit !default;
+$headings-font-style:         inherit !default;
+$headings-color:              inherit !default;
+$display-font-family: inherit !default;
+$display-font-style:  inherit !default;
+$hr-bg-color:                 inherit !default; // Deprecated in v5.2.0
+$hr-height:                   inherit !default; // Deprecated in v5.2.0
+$hr-border-color:             inherit !default; // Allows for inherited colors
+$legend-font-weight:          inherit !default;
+$table-th-font-weight:        inherit !default;
+$input-btn-font-family:       inherit !default;
+$btn-white-space:             inherit !default; // Set to `nowrap` to prevent text wrapping
+$form-text-font-style:                  inherit !default;
+$form-text-font-weight:                 inherit !default;
+$form-label-font-size:                  inherit !default;
+$form-label-font-style:                 inherit !default;
+$form-label-font-weight:                inherit !default;
+$form-label-color:                      inherit !default;
+$input-disabled-color:                  inherit !default;
+$input-disabled-border-color:           inherit !default;
+$form-check-label-color:                  inherit !default;
+$form-check-label-cursor:                 inherit !default;
+$form-check-transition:                   inherit !default;
+$form-select-disabled-color:        inherit !default;
+$nav-link-font-size:                inherit !default;
+$nav-link-font-weight:              inherit !default;
+$navbar-padding-x:                  inherit !default;
+$dropdown-dark-box-shadow:          inherit !default;
+$card-box-shadow:                   inherit !default;
+$card-cap-color:                    inherit !default;
+$card-height:                       inherit !default;
+$card-color:                        inherit !default;
+$tooltip-margin:                    inherit !default; // TODO: remove this in v6
+$tooltip-arrow-color:               inherit !default; // Deprecated in Bootstrap 5.2.0 for CSS variables
+$form-feedback-tooltip-line-height:   inherit !default;
+$toast-color:                       inherit !default;
+$modal-content-color:               inherit !default;
+$modal-footer-bg:                   inherit !default;
+$breadcrumb-font-size:              inherit !default;
+$breadcrumb-bg:                     inherit !default;
+$breadcrumb-border-radius:          inherit !default;
+$nested-kbd-font-weight:            inherit !default; // Deprecated in v5.2.0, removing in v6
+$pre-color:                         inherit !default;
